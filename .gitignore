@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.ics
+*.csv
+XJTLU e-Bridge.html
+XJTLU e-Bridge_files/
+saved_resource.html
+.DS_Store
